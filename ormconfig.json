@@ -1,0 +1,14 @@
+
+{
+
+    "type": "mysql",
+    "username": "root",
+    "password": "",
+    "database": "noteDb",
+    "synchronize": false,
+    "logging": true,
+    "entities": ["src/**/**.entity.{ts,js}"]
+    
+
+
+} 
